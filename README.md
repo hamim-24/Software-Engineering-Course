@@ -31,4 +31,4 @@ Software-Engineering-Course/
 └── README.md
 ```
 
-This README lists the course folders in the repository. Add materials under the new 3rd-Semister directory as you create them.
+
