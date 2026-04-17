@@ -22,12 +22,17 @@ Software-Engineering-Course/
 ├── 3rd-Semester/
 │   ├── Theory-of-Computing/
 │   ├── Introduction-to-Algorithm/
-│   ├── Introduction-to-Algorithm-Lab/
 │   ├── Linear-Algebra/
 │   ├── Business-Communication/
 │   ├── Computer-Networks/
-│   ├── Computer-Networks-Lab/
 │   └── Software-Project-Lab-1/
+├── 4th-Semester/
+│   ├── Business-studies-for-Engineers/
+│   ├── Data-Management-System/
+│   ├── Design-Pattern/
+│   ├── Operating-System-and-System-Programming/
+│   ├── Business-Communication/
+│   ├── Software-Requirement-and-Analysis/
 └── README.md
 ```
 
