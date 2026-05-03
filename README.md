@@ -31,7 +31,6 @@ Software-Engineering-Course/
 │   ├── Data-Management-System/
 │   ├── Design-Pattern/
 │   ├── Operating-System-and-System-Programming/
-│   ├── Business-Communication/
 │   ├── Software-Requirement-and-Analysis/
 └── README.md
 ```
