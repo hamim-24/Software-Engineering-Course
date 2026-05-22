@@ -1,0 +1,7 @@
+[StudentModule] LOGIN: Student STU-101 logged in successfully
+[StudentModule] SUBMIT: Student STU-101 submitted
+[StudentModule] FAILED_LOGIN: Student STU-999 failed login
+[TeacherModule] ATTENDANCE_MODIFIED: Teacher TCH-201 changed status of student STU-102 in course CS401 to ABSENT
+[TeacherModule] REQUEST_APPROVED: Teacher TCH-201 approved attendance request REQ-305
+[AdminModule] REPORT_GENERATED: Admin ADM-001 generated report of type: MONTHLY_SUMMARY
+[AdminModule] USER_MANAGED: Admin ADM-001 performed 'DEACTIVATE' on user STU-103
