@@ -11,7 +11,12 @@ int main() {
         int philosopher;
         scanf("%d", &philosopher);
 
-        int left = philosopher;
+        if (philosopher < 0 || philosopher >= N) {
+            printf("Philosopher %d is INVALID (Out of Range).\n", philosopher);
+            continue;
+        }
+
+        int left  = philosopher;
         int right = (philosopher + 1) % N;
 
         if (room == 0) {
@@ -19,16 +24,22 @@ int main() {
             continue;
         }
         room--;
+
         if (chopstick[left] == 0) {
             printf("Philosopher %d is BLOCKED (Waiting for Chopstick).\n", philosopher);
+            room++; 
             continue;
         }
         chopstick[left]--;
+
         if (chopstick[right] == 0) {
             printf("Philosopher %d is BLOCKED (Waiting for Chopstick).\n", philosopher);
+            chopstick[left]++; 
+            room++;       
             continue;
         }
         chopstick[right]--;
+
         printf("Philosopher %d is EATING.\n", philosopher);
     }
 
