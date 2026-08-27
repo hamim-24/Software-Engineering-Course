@@ -1,0 +1,17 @@
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/ui/View.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/dao/UserDao.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/ui/ViewFactory.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/ui/AuthorView.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/db/DatabaseConnection.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/service/AuthService.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/dao/BlogDao.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/model/Blog.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/model/User.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/model/Role.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/db/DatabaseSeeder.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/ui/AdminView.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/ui/GuestView.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/dao/UserDaoImpl.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/db/ConnectionTest.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/dao/BlogDaoImpl.java
+/Users/Inz_mac/Software-Engineering-Course/4th-Semester/Design-Pattern/Lab/Maven-project/src/main/java/com/blogapp/App.java
